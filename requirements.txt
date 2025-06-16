@@ -1,0 +1,15 @@
+pydub
+librosa
+SpeechRecognition
+ffmpeg-python
+opencv-python
+paddlepaddle-gpu
+paddleocr
+matplotlib
+gtts
+pillow
+pytesseract
+sounddevice
+moviepy
+numpy
+pyaudio
