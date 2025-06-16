@@ -13,3 +13,9 @@ sounddevice
 moviepy
 numpy
 pyaudio
+playsound
+pygobject
+scipy
+tempfile
+threading
+queue
